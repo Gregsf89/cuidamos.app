@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "818420538982",
+    "project_id": "cuidamos-91643",
+    "storage_bucket": "cuidamos-91643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818420538982:android:af9b0a537c9caa1857d7a7",
+        "android_client_info": {
+          "package_name": "com.cuidamos.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818420538982-gs67n6gc9ibkfml6cej7f1ans16hi19n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cuidamos.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "818420538982-lg4cpp01b5on73l3t2rr3qc02v35p5dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCccLNELQ1pyKJJjoOLxlH0uAgc46SDrQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818420538982-lg4cpp01b5on73l3t2rr3qc02v35p5dv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "818420538982-4u4n08envvc3cv9pa7farnd1flgp2l4v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cuidamos.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
